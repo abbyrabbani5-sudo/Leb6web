@@ -17,12 +17,14 @@ Mengganti .widget-box pada sidebar menjadi .card
 Menghapus penggunaan CSS manual untuk posisi
 •	Tidak ada float, clear, atau position: relative yang manual.
 •	Semua tata letak menggunakan flex & grid dari Bootstrap
+
 <img width="490" height="275" alt="image" src="https://github.com/user-attachments/assets/69952ca7-749f-4285-9147-b14dea1a01fb" />
 
-2. <img width="624" height="351" alt="image" src="https://github.com/user-attachments/assets/1d924bb7-7a08-4309-b177-b301621a16a5" />
+3. <img width="624" height="351" alt="image" src="https://github.com/user-attachments/assets/1d924bb7-7a08-4309-b177-b301621a16a5" />
 
  
 Improve setelah mengisi tekan tombol kirim pesan, maka akan lanjut dilarikan ke whatssapp saya tinggal mengirim pesan apa yang sudah di ketik di atas
+
  <img width="624" height="351" alt="image" src="https://github.com/user-attachments/assets/02674ea1-c6da-43ee-be2f-e601ed42d11a" />
 
 
@@ -31,6 +33,7 @@ b. 	Section Tentang Saya dibuat menggunakan Bootstrap Grid System. Di dalam .con
 c.	 Pada bagian "Portfolio", saya menggunakan komponen Bootstrap dengan struktur 1 baris (.row) dan 3 kolom (.col-md-4). Setiap kolom berisi sebuah komponen card yang merepresentasikan satu proyek. Card tersebut terdiri dari gambar dan judul proyek, sehingga tampilan portfolio menjadi lebih rapi dan responsif.
 Penggunaan .row dan .col-md-4 berfungsi untuk membagi halaman menjadi tiga kolom dengan lebar yang sama pada ukuran layar menengah ke atas, sedangkan pada layar kecil card akan otomatis turun ke bawah (stacking) sehingga tetap responsif. Untuk menampilkan isi portfolio, saya juga menambahkan elemen <img> sebagai gambar proyek dan <h4> sebagai judul proyek.
 Selain itu, card diberi gaya tambahan seperti hover efek dan penyamaan tinggi gambar agar tampilan lebih konsisten dan profesional. Seluruh konten pada card juga dikelola menggunakan flex layout agar tinggi masing-masing card seimbang meskipun isi teks berbeda.
+
 <img width="624" height="351" alt="image" src="https://github.com/user-attachments/assets/2dd20875-d328-4fef-83c0-1d8ee2aabe19" />
 
 
@@ -43,5 +46,5 @@ contoh scrolnya
  
  
 
-Contoh scrolnya
+
  
